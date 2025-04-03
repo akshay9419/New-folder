@@ -1,0 +1,3567 @@
+@media(max-width:1600px) {
+    section.hero {
+        height: calc(100vh - 120px);
+        margin-top: 120px;
+    }
+
+    .philo ul li {
+        font-size: 24px;
+    }
+
+    header {
+        height: 120px;
+    }
+
+
+
+    h1 {
+        font-size: 65px;
+    }
+
+    h1 span {
+        font-size: 55px;
+    }
+
+    .university {
+        margin-top: -281px;
+    }
+
+    .box_par figure {
+        padding-left: 50px;
+    }
+
+    .flagship .heading a {
+        font-size: 30px;
+    }
+
+    figure.cap {
+        top: 13%;
+        left: 20%;
+        transform: translate(-50%, 0%);
+        width: 450px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    .makes .heading {
+        padding-bottom: 40px;
+    }
+
+    .sustainable {
+        padding-top: 40px;
+    }
+
+    .pro_con h3 {
+        font-size: 30px;
+    }
+
+    .partner {
+        height: auto;
+    }
+
+    .partner .container .col-lg-6 {
+        position: unset;
+    }
+
+    .box_par {
+        padding: 45px 40px;
+    }
+
+    .partner .heading_first {
+        padding: 45px 20px 45px 45px;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+    .university .heading {
+        padding: 80px 0 95px 80px;
+        align-items: start;
+    }
+
+    .hero_slider .slick-dots li button {
+        width: 15px;
+        height: 15px;
+    }
+
+    .certificate .row {
+        align-items: center;
+    }
+
+    .fol_con figure {
+        height: 385px;
+    }
+
+    .footer_content h2 {
+        font-size: 45px;
+    }
+
+    .footer_content p {
+        font-size: 30px;
+    }
+
+    .twoBtn a {
+        font-size: 30px;
+    }
+
+    footer ul li {
+        font-size: 20px;
+    }
+
+    footer p {
+        font-size: 18px;
+    }
+
+    footer .link_a a {
+        font-size: 18px;
+    }
+
+    .footer_right ul {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .footer_left ul,
+    .address {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .address p:last-child {
+        padding-top: 12px;
+    }
+
+    footer {
+        padding: 0px 0 50px;
+    }
+
+    .footer_content {
+        padding: 70px 50px;
+        gap: 10px;
+        width: 98%;
+        margin: auto auto 40px auto;
+    }
+
+    .social_link .soI i {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+
+    .container {
+        max-width: 1320px;
+    }
+
+    .university .container,
+    header .container {
+        max-width: 1390px;
+    }
+
+    #item-0 {
+        height: 310px;
+    }
+
+    #item-2 {
+        height: 233px;
+    }
+
+    #item-3 {
+        height: 415px;
+    }
+
+    #item-4 {
+        height: 306px;
+    }
+
+    #item-1 {
+        height: 341px;
+    }
+
+    #item-6 {
+        height: 418px;
+    }
+
+    #item-5 {
+        height: 343px;
+    }
+
+    #item-7 {
+        height: 238px;
+    }
+
+    .sameBanner {
+        margin-top: 120px;
+    }
+
+    .sameBanner figure {
+        height: 480px;
+    }
+
+    .sameBanner figure img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .sameHeading h2 {
+        font-size: 42px;
+    }
+
+    .sameHeading h5 {
+        font-size: 20px;
+    }
+
+    .admission {
+        margin-top: -170px;
+    }
+
+    .eli_box_t .eli_box h5 {
+        font-size: 23px;
+    }
+
+    .eli_box_t .eli_box {
+        min-height: 260px;
+    }
+
+    .steps .step {
+        min-height: auto;
+        height: 266px;
+    }
+
+    .steps .step h5 {
+        font-size: 19px;
+    }
+
+    .st_conAll .stCon:first-child {
+        padding: 0px 50px 50px 0px;
+    }
+
+    .st_conAll .stCon:nth-child(2) {
+        padding: 0px 0px 50px 50px;
+    }
+
+    .st_conAll .stCon:nth-child(3) {
+        padding: 50px 50px 0px 0px;
+    }
+
+    .st_conAll .stCon:nth-child(4) {
+        padding: 50px 50px 0px 50px;
+    }
+
+    .career figure img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .career figure {
+        height: 500px;
+    }
+
+    .career a {
+        font-size: 27px;
+    }
+
+    .sameHeading {
+        min-height: 240px;
+    }
+
+    .right_evo figure {
+        height: 370px;
+    }
+
+    .right_evo figure img {
+        height: 100%;
+        width: 100%;
+    }
+
+    .acade_box figure img {
+        width: 100px;
+        object-fit: scale-down;
+    }
+
+    .acade_box {
+        height: 150px;
+    }
+
+    .acade_box h3 {
+        font-size: 26px;
+    }
+
+    .item1,
+    .item7 {
+        height: 250px;
+    }
+
+    .item2,
+    .item8 {
+        height: calc(600px - 250px);
+    }
+
+    .item3 {
+        height: 200px;
+    }
+
+    .item4 {
+        height: calc(600px - 200px);
+    }
+
+    .item5 {
+        height: calc(600px - 220px);
+    }
+
+    .item6 {
+        height: 220px;
+    }
+
+    .dist_grid .distAll {
+        height: 600px;
+    }
+
+    .map figure iframe {
+        height: 500px;
+    }
+
+
+
+    .sportsFlex .sportCon {
+        height: 600px;
+        overflow: hidden;
+    }
+
+    .sportsFlex .sportCon figure,
+    .sportsFlex .sportCon:last-child figure {
+        height: calc(600px - 212px);
+    }
+
+    .sportsFlex .sportCon h6,
+    .sportsFlex .sportCon:last-child h6 {
+        height: 212px;
+    }
+
+    .sportsFlex .sportCon:nth-child(2) figure {
+        height: 400px;
+    }
+
+    .sportsFlex .sportCon:nth-child(2) h6 {
+        height: calc(600px - 200px);
+    }
+
+    .sportsFlex .sportCon:nth-child(3) figure:first-child {
+        height: 340px;
+    }
+
+    .sportsFlex .sportCon:nth-child(3) figure:last-child {
+        height: calc(600px - 340px);
+    }
+
+    .sportsFlex .sportCon h6 {
+        padding: 20px;
+        font-size: 19px;
+    }
+
+    .sEventSlider .item figure {
+        height: 480px;
+    }
+
+    .sEventSlider .item figure img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .sEventTab .nav {
+        padding: 14px 30px 0;
+        margin-bottom: 20px;
+    }
+
+    .videoPart {
+        height: 560px;
+    }
+
+    .para_slider {
+        margin-top: 50px;
+    }
+
+    .sEventTab.prog_tab .nav {
+        padding: 10px 190px 0;
+        margin-bottom: 40px;
+    }
+
+    .sEventTab.prog_tab .nav .nav-link {
+        font-size: 25px;
+    }
+
+    .progTab_text ul li a {
+        font-size: 22px;
+    }
+
+    .faculty .heading a {
+        font-size: 20px;
+    }
+
+    .faculty .heading {
+        padding-bottom: 40px;
+    }
+
+    .gra_box {
+        padding: 50px 50px 70px;
+    }
+
+
+    header .logo img {
+        width: 200px;
+    }
+
+    .footer_right ul:last-child li {
+        padding-left: 27px;
+    }
+
+    .footer_right ul li a {
+        font-size: 17px;
+    }
+
+    .event_con h4 {
+        font-size: 26px;
+    }
+
+    .newContent h3 {
+        font-size: 27px;
+    }
+
+}
+
+@media(max-width:1400px) {
+    .fol_con figure {
+        height: 337px;
+    }
+
+    .sameBanner {
+        height: 402px;
+    }
+
+    .sameBanner figure {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .income_con .in_text img {
+        width: 50px;
+    }
+
+    figure.cap {
+        top: 15%;
+        left: 23%;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    section.hero {
+        height: calc(100vh - 152px);
+        margin-top: 120px;
+    }
+
+    .para p br {
+        display: none;
+    }
+
+    .footer_right ul li a {
+        font-size: 15px;
+    }
+
+    .footer_right ul:last-child li {
+        padding-left: 13px;
+    }
+
+    .container {
+        max-width: 1140px;
+    }
+
+    .university .container,
+    header .container {
+        max-width: 1190px;
+    }
+
+    .university .heading {
+        padding: 80px 0 120px 40px;
+    }
+
+    h1 {
+        font-size: 55px;
+    }
+
+    h1 span {
+        font-size: 50px;
+    }
+
+    .university {
+        margin-top: -251px;
+    }
+
+    .r_uni {
+        padding-left: 18px;
+    }
+
+    .right_sus p {
+        width: 29%;
+    }
+
+    .right_sus {
+        gap: 20px 40px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    .flagship .heading a {
+        font-size: 25px;
+    }
+
+    .dollar .dol_con h3 {
+        font-size: 60px;
+    }
+
+    .dollar .dol_con h5 {
+        font-size: 20px;
+    }
+
+    .dollar .dol_con h6 {
+        font-size: 15px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    .parA a {
+        font-size: 20px;
+    }
+
+    .parA {
+        padding-top: 12px;
+    }
+
+    .parA a span img {
+        width: 16px;
+    }
+
+    .industry .heading p {
+        font-size: 16px;
+    }
+
+    .campus .heading::after {
+        width: 320px;
+    }
+
+    #item-0 {
+        height: 263px;
+    }
+
+    #item-2 {
+        height: 201px;
+    }
+
+    #item-3 {
+        height: 356px;
+    }
+
+    #item-4 {
+        height: 263px;
+    }
+
+    #item-1,
+    #item-5 {
+        height: 295px;
+    }
+
+    #item-6 {
+        height: 356px;
+    }
+
+    #item-7 {
+        height: 203px;
+    }
+
+    .latest_all .lat_con {
+        width: 89%;
+    }
+
+    .read {
+        font-size: 15.6px;
+    }
+
+    .event_con h4 {
+        font-size: 22px;
+    }
+
+    .event_con .e_right {
+        padding-left: 30px;
+    }
+
+    .event_con .e_left {
+        padding-right: 30px;
+    }
+
+    .slider_event .slick-dots {
+        left: -182px;
+    }
+
+    .slider_event {
+        padding-left: 40px;
+    }
+
+    .follow .heading p {
+        font-size: 13px;
+    }
+
+
+
+    .sameBanner figure {
+        height: 385px;
+    }
+
+    .overView a,
+    .overView.onlyOne a {
+        font-size: 18px;
+    }
+
+    .eli_box_t .eli_box h5 {
+        font-size: 20px;
+    }
+
+
+
+    .eli_box_t .eli_box {
+        min-height: 230px;
+        padding: 35px;
+    }
+
+    .steps .step h5 {
+        font-size: 16px;
+    }
+
+    .steps .step h4 {
+        font-size: 22px;
+    }
+
+    .steps .step {
+        height: 224px;
+    }
+
+    /* .in_text figure img {
+        width: 74px;
+    } */
+
+    h4 {
+        font-size: 20px;
+    }
+
+    .distCon h6 {
+        font-size: 18px;
+    }
+
+    .mi_right,
+    .mi_right figure {
+        height: 100%;
+    }
+
+    .mi_right img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .academic .heading p br {
+        display: none;
+    }
+
+    .philo ul li {
+        font-size: 19px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child,
+    .philo .phi_ul ul:last-child li:last-child {
+        padding-left: 248px;
+    }
+
+    .philo ul li::before {
+        width: 7px;
+        height: 7px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child::before,
+    .philo .phi_ul ul:last-child li:last-child::before {
+        left: 236px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2),
+    .philo .phi_ul ul:last-child li:nth-child(2) {
+        padding-left: 140px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2)::before,
+    .philo .phi_ul ul:last-child li:nth-child(2)::before {
+        left: 127px;
+    }
+
+    .apart_tab .nav {
+        width: 50%;
+    }
+
+    .aTabItem ul li {
+        font-size: 26px;
+    }
+
+    .aTabItem ul li::before {
+        top: 17px;
+    }
+
+    .apart_tab .nav-pills .nav-link {
+        padding: 0px 0 12px;
+        margin-bottom: 12px;
+    }
+
+    .evolution>figure img {
+        height: 100%;
+    }
+
+    .acade_box figure img {
+        width: 75px;
+    }
+
+    .acade_box h3 {
+        font-size: 24px;
+    }
+
+    .acade_box {
+        height: 130px;
+    }
+
+    .dist_grid .distAll {
+        height: 500px;
+    }
+
+    .item1,
+    .item7 {
+        height: 180px;
+    }
+
+    .item2,
+    .item8 {
+        height: calc(500px - 180px);
+    }
+
+    .item3 {
+        height: 145px;
+    }
+
+    .item4 {
+        height: calc(500px - 145px);
+    }
+
+    .item6 {
+        height: 160px;
+    }
+
+    .item5 {
+        height: calc(500px - 160px);
+    }
+
+    .corporation .heading h6,
+    .corporation .heading .ad_con a {
+        font-size: 18px;
+    }
+
+    .corporation .heading .ad_con a:first-child {
+        margin-top: 26px;
+    }
+
+    .Co_form {
+        padding: 40px;
+    }
+
+    .Co_form .btn {
+        font-size: 20px;
+    }
+
+    .registered .regi_con {
+        padding: 50px 70px;
+    }
+
+    .registered .regi_con .regi_left {
+        padding-right: 70px;
+    }
+
+    .registered .regi_con .regi_right {
+        padding-left: 70px;
+    }
+
+    .registered .regi_con .regi_left h6,
+    .registered .regi_con .regi_left a {
+        font-size: 18px;
+    }
+
+    .registered .regi_con .regi_right .heading ul li {
+        font-size: 16px;
+    }
+
+    .note .col-lg-8 {
+        width: 56%;
+    }
+
+    .note .col-lg-4 {
+        width: 44%;
+    }
+
+    .univerAddress .col-lg-8 ul li {
+        font-size: 21px;
+    }
+
+    .videoPart {
+        height: 485px;
+    }
+
+    .campusVideo .videoText h4 {
+        font-size: 30px;
+    }
+
+    .campusVideo .videoText button {
+        width: 75px;
+        height: 75px;
+        border: 5px solid #fff;
+    }
+
+    .campusVideo .videoText button i {
+        font-size: 35px;
+    }
+
+    .sportsFlex .sportCon {
+        height: 500px;
+    }
+
+    .sportsFlex .sportCon figure,
+    .sportsFlex .sportCon:last-child figure {
+        height: calc(500px - 212px);
+    }
+
+    .sportsFlex .sportCon:nth-child(2) figure {
+        height: 330px;
+    }
+
+    .sportsFlex .sportCon:nth-child(2) h6 {
+        height: calc(600px - 330px);
+    }
+
+    .sportsFlex .sportCon:nth-child(3) figure:first-child {
+        height: 285px;
+    }
+
+    .sportsFlex .sportCon:nth-child(3) figure:last-child {
+        height: calc(500px - 285px);
+    }
+
+    .library ul li {
+        font-size: 16px;
+        padding-bottom: 15px;
+    }
+
+    .sEventTab .nav .nav-link {
+        font-size: 16px;
+    }
+
+    .sEventSlider .item figure {
+        height: 418px;
+    }
+
+    .constituent .row .col-lg-6:last-child .left_consti::after {
+        left: -66px;
+    }
+
+    .aMem_slider .fmem1 img {
+        width: 110px;
+    }
+
+    .aMem_slider .fmem1 figure {
+        height: 100px;
+    }
+
+    .aMem_slider .fmem1 .fmem_con p {
+        height: 90px;
+    }
+
+    .fmem1 img {
+        width: 90px;
+    }
+
+    .fmem1 figure {
+        height: 100px;
+    }
+
+    .sEventTab.prog_tab .nav .nav-link {
+        font-size: 22px;
+    }
+
+    .progTab_text ul li a {
+        font-size: 20px;
+    }
+
+    .programmes .heading {
+        padding-bottom: 40px;
+    }
+
+    section {
+        padding: 60px 0;
+    }
+
+    .awaitAll .awaiting_con figure img {
+        width: 70px;
+        object-fit: scale-down;
+    }
+
+    .faculty .row {
+        --bs-gutter-x: 50px;
+    }
+
+    .gra_box {
+        margin-top: 30px;
+        padding: 35px 35px 50px;
+    }
+
+    .upProgrammes .heading {
+        padding-bottom: 40px;
+    }
+
+    .awaitAll .awaiting_con .await_text h4 {
+        font-size: 22px;
+    }
+
+    .awaitAll .awaiting_con {
+        align-items: center;
+    }
+
+    .awaiting .heading p br {
+        display: none;
+    }
+
+    /* .president .heading_c {
+        gap: 50px;
+    } */
+
+    /* .pre_para {
+        padding-left: 50px;
+    } */
+
+    header .logo img {
+        width: 200px;
+    }
+
+    .gbImg figure {
+        width: 235px;
+        margin: 0 auto;
+    }
+
+    .gbImg figure img {
+        width: 100%;
+    }
+
+    .footer_right ul:nth-child(2) li {
+        padding-left: 24px;
+    }
+
+    .footer_right ul li {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .newContent {
+        padding: 35px 35px 0px;
+    }
+
+    .newContent h3 {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:1200px) {
+    .container {
+        max-width: 960px;
+    }
+
+    .university .container,
+    header .container {
+        max-width: 1000px;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    h1 span {
+        font-size: 40px;
+    }
+
+    .university .heading h2 {
+        font-size: 27px;
+    }
+
+    .university {
+        margin-top: -220px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .r_uni {
+        padding-left: 13px;
+    }
+
+    h3 {
+        font-size: 25px;
+    }
+
+    .left_sus {
+        padding-right: 25px;
+    }
+
+    .right_sus p {
+        width: 28%;
+        font-size: 13px;
+    }
+
+    .right_sus p {
+        padding-bottom: 7px;
+    }
+
+    .right_sus {
+        gap: 15px 40px;
+    }
+
+    .sustainable .heading h2 {
+        padding-bottom: 25px;
+    }
+
+    .pro_con h3 {
+        font-size: 23px;
+    }
+
+    .certificate .heading {
+        padding-bottom: 25px;
+    }
+
+    .right_cer {
+        padding-left: 0px;
+    }
+
+    .workforce .heading {
+        padding-bottom: 25px;
+        margin-bottom: 15px;
+    }
+
+    .dollar .dol_con h5 {
+        padding: 5px 0 15px;
+    }
+
+
+    .partner h2 {
+        font-size: 25px;
+    }
+
+    .parA a {
+        font-size: 18px;
+    }
+
+    .parA a span img {
+        width: 13px;
+    }
+
+    .industry .heading {
+        padding-right: 30px;
+    }
+
+    .indusAll .ImgBox h4 {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+
+    .industry .heading p {
+        font-size: 15px;
+    }
+
+    .indusAll {
+        gap: 25px;
+    }
+
+    #item-0 {
+        height: 222px;
+    }
+
+    #item-1,
+    #item-5 {
+        height: 245px;
+    }
+
+    #item-2 {
+        height: 166px;
+    }
+
+    #item-3 {
+        height: 293px;
+    }
+
+    #item-4 {
+        height: 219px;
+    }
+
+    #item-6 {
+        height: 301px;
+    }
+
+    #item-7 {
+        height: 170px;
+    }
+
+    .latest_slider .slick-list {
+        padding-bottom: 44px;
+    }
+
+    .event_con h3 {
+        font-size: 55px;
+    }
+
+    .event_con h4 {
+        font-size: 18px;
+    }
+
+    .event_con .e_right {
+        padding-left: 20px;
+    }
+
+    .event_con .e_left {
+        padding-right: 20px;
+    }
+
+    .slider_event .slick-dots {
+        left: -153px;
+    }
+
+    .fol_con figure {
+        height: 246px;
+    }
+
+    .footer_content h2 {
+        font-size: 35px;
+    }
+
+    .footer_content p {
+        font-size: 25px;
+    }
+
+    .twoBtn a {
+        font-size: 22px;
+    }
+
+    footer ul li {
+        font-size: 16px;
+    }
+
+    footer p,
+    footer .link_a a {
+        font-size: 14px;
+    }
+
+    .social_link .soI i {
+        width: 35px;
+        height: 35px;
+        font-size: 17px;
+    }
+
+
+    .address p:last-child {
+        padding-top: 16px;
+    }
+
+    section {
+        padding: 50px 0;
+    }
+
+    .flagship .heading {
+        padding-bottom: 25px;
+    }
+
+    .flagship .heading a {
+        font-size: 22px;
+    }
+
+    .flagship .heading a {
+        margin: 10px 0 15px;
+    }
+
+    .campus .heading::after {
+        top: -25px;
+    }
+
+    .latest .heading {
+        padding-bottom: 25px;
+    }
+
+    figure.cap {
+        top: 23%;
+        left: 18%;
+        width: 325px;
+    }
+
+    .latest_slider .slick-dots {
+        top: -25px;
+    }
+
+    .follow .heading {
+        padding-bottom: 25px;
+    }
+
+    .follow .heading p {
+        padding-top: 4px;
+    }
+
+    footer .row:last-child {
+        padding-top: 20px;
+    }
+
+    .logo figure img {
+        width: 130px;
+    }
+
+    .eli_box_t .eli_box h5 {
+        font-size: 18px;
+    }
+
+    .step_con:nth-child(odd) figure img {
+        height: 167px;
+    }
+
+    .step_con:nth-child(even) figure img {
+        height: 145px;
+    }
+
+    .steps .step {
+        height: 267px;
+        padding: 10px;
+    }
+
+    .steps .step h5 {
+        font-size: 14px;
+    }
+
+    .steps .step h4 {
+        font-size: 19px;
+    }
+
+    .in_text figure {
+        min-height: 110px;
+    }
+
+    h4 {
+        font-size: 16px;
+    }
+
+    .st_conAll .stCon:first-child {
+        padding: 0px 40px 40px 0px;
+    }
+
+    .st_conAll .stCon:nth-child(2) {
+        padding: 0px 0px 40px 40px;
+    }
+
+    .st_conAll .stCon:nth-child(3) {
+        padding: 40px 40px 0px 0px;
+    }
+
+    .st_conAll .stCon:nth-child(4) {
+        padding: 40px 40px 0px 40px;
+    }
+
+    .career figure {
+        height: auto;
+    }
+
+    .career a {
+        font-size: 24px;
+    }
+
+    .overAll {
+        position: relative;
+        height: 85px;
+        overflow: auto;
+    }
+
+    .overView {
+        width: 1424px;
+    }
+
+    .sameHeading {
+        padding: 50px 50px 0;
+    }
+
+    .right_evo figure {
+        height: auto;
+    }
+
+    .evolution .heading p {
+        padding-bottom: 10px;
+    }
+
+    .evolution .heading h2 {
+        padding-bottom: 25px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child,
+    .philo .phi_ul ul:last-child li:last-child {
+        padding-left: 188px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child::before,
+    .philo .phi_ul ul:last-child li:last-child::before {
+        left: 177px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2),
+    .philo .phi_ul ul:last-child li:nth-child(2) {
+        padding-left: 97px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2)::before,
+    .philo .phi_ul ul:last-child li:nth-child(2)::before {
+        left: 86px;
+    }
+
+    .apart_tab .nav-pills .nav-link {
+        font-size: 16px;
+    }
+
+    .aTabItem ul li {
+        font-size: 22px;
+    }
+
+    .distCon h6 {
+        font-size: 16px;
+    }
+
+    .sameHeading ::-webkit-scrollbar {
+        width: 10px;
+        height: 5px;
+    }
+
+    /* Track */
+    .sameHeading ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+    }
+
+    /* Handle */
+    .sameHeading ::-webkit-scrollbar-thumb {
+        background: #888;
+    }
+
+    /* Handle on hover */
+    .sameHeading ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+
+    .corporation .heading {
+        padding-right: 35px;
+    }
+
+    .registered .regi_con {
+        padding: 35px 50px;
+    }
+
+    .Co_form .heading a {
+        font-size: 16px;
+    }
+
+    .note .col-lg-4 .heading ul li {
+        font-size: 14px;
+    }
+
+    .note .col-lg-4 .heading {
+        padding-right: 30px;
+    }
+
+    .univerAddress .col-lg-8 ul li {
+        font-size: 18px;
+    }
+
+    .overView.onlyOne {
+        width: auto;
+        padding: 0;
+    }
+
+    .worldClass {
+        margin-top: 30px;
+        min-height: 380px;
+    }
+
+    .sportsFlex .sportCon h6 {
+        font-size: 16px;
+    }
+
+    .library ul li {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .sEventTab .nav .nav-link {
+        font-size: 14px;
+    }
+
+    .socialEvent .heading {
+        padding-bottom: 30px;
+    }
+
+    .socialEvent .heading h2 {
+        padding-bottom: 10px;
+    }
+
+    .sEventSlider .item figure {
+        height: auto;
+    }
+
+    .foundation .heading figure img {
+        max-width: 70%;
+    }
+
+    .foundation .heading figure {
+        text-align: center;
+    }
+
+    .sameHeading h2 {
+        font-size: 45px;
+    }
+
+    .left_consti figure img {
+        width: 100%;
+    }
+
+    .left_consti figure {
+        width: 40%;
+    }
+
+    .constituent .row .col-lg-6:last-child .left_consti::after {
+        left: -50px;
+    }
+
+    .para_slider {
+        margin-top: 35px;
+    }
+
+    .progTab_con {
+        gap: 8px;
+    }
+
+    .sEventTab.prog_tab .nav {
+        padding: 10px 100px 0;
+    }
+
+    .progTab_text ul li {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .progTab_text ul li a {
+        font-size: 18px;
+    }
+
+    .opportunities .col-lg-8 {
+        padding-left: 30px;
+    }
+
+    .opportunities .heading {
+        padding: 35px;
+    }
+
+    .slider_await {
+        padding-top: 25px;
+    }
+
+
+    .awaitAll .awaiting_con figure img {
+        width: 55px;
+    }
+
+    .awaitAll .awaiting_con .await_text h4 {
+        font-size: 20px;
+    }
+
+    .cor ul li {
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    .cor ul {
+        padding-left: 30px;
+    }
+
+    .govertext p {
+        font-size: 20px;
+    }
+
+    .gover_con figure {
+        width: 21%;
+    }
+
+    .president .heading_c figure img {
+        width: 100%;
+    }
+
+    .footer_right ul:nth-child(2) li {
+        padding-left: 23px;
+    }
+
+    .footer_right ul:last-child li {
+        padding-left: 8px;
+    }
+
+    .footer_right ul li a {
+        font-size: 12px;
+    }
+
+    .footer_right ul:nth-child(2) li {
+        padding-left: 12px;
+    }
+
+    .newContent h3 {
+        font-size: 20px;
+    }
+
+    .newContent .bt_con small,
+    .newContent .bt_con a.read {
+        font-size: 13px;
+    }
+
+    .newContent .bt_con {
+        padding-bottom: 3px;
+    }
+
+
+    .event_con {
+        padding-bottom: 25px;
+        margin-bottom: 12px;
+    }
+
+}
+
+
+@media(max-width:992px) {
+    .container {
+        max-width: 720px;
+    }
+
+    figure.cap {
+        left: 24%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .university .heading {
+        float: none !important;
+    }
+
+    .university {
+        margin-top: 0;
+    }
+
+    header {
+        height: 85px;
+    }
+
+    .step_con .in_text {
+        width: 100%;
+    }
+
+    section.hero {
+        height: calc(100vh - 85px);
+        margin-top: 85px;
+    }
+
+    .university .container,
+    header .container {
+        max-width: 760px;
+    }
+
+    .university .container {
+        padding-right: 13px;
+    }
+
+    .university .heading {
+        padding: 40px;
+    }
+
+    .r_uni {
+        padding: 10px 0 0 !important;
+    }
+
+    .university .heading {
+        margin: 0 !important;
+    }
+
+    .university .container {
+        padding: 0 33px;
+    }
+
+    .right_sus {
+        padding: 20px 0 0;
+    }
+
+    .right_sus p {
+        font-size: 15px;
+    }
+
+    .pro_con h3 {
+        font-size: 20px;
+    }
+
+    .progI img {
+        width: 25px;
+    }
+
+    .pro_con {
+        bottom: 20px;
+        left: 20px;
+    }
+
+    h3 {
+        font-size: 21px;
+    }
+
+    h2 {
+        font-size: 27px;
+    }
+
+    .right_cer {
+        padding: 20px 0 0;
+    }
+
+    .workforce figure {
+        text-align: center;
+        padding-top: 40px;
+    }
+
+    .workforce figure img {
+        max-width: 70%;
+    }
+
+    .partner .container .col-lg-6 {
+        width: 60%;
+    }
+
+    .box_par figure {
+        padding-left: 10px;
+    }
+
+    .industry .heading h2 {
+        padding-bottom: 20px;
+    }
+
+    .industry .heading p:last-child {
+        padding-top: 15px;
+    }
+
+    .industry .heading {
+        padding: 0 0 50px;
+    }
+
+    #item-0 {
+        height: 160px;
+    }
+
+    #item-2 {
+        height: 120px;
+    }
+
+    #item-3 {
+        height: 215px;
+    }
+
+    #item-4 {
+        height: 160px;
+    }
+
+    #item-1,
+    #item-5 {
+        height: 181px;
+    }
+
+    #item-7 {
+        height: 122px;
+    }
+
+    #item-6 {
+        height: 222px;
+    }
+
+    .angry-grid {
+        gap: 12px;
+    }
+
+    .latest_all .lat_con .lat_flex {
+        padding-top: 25px;
+    }
+
+    .lat_con h3 {
+        font-size: 18px;
+    }
+
+    .read {
+        font-size: 13.6px;
+    }
+
+    .lat_flex small {
+        font-size: 11px;
+    }
+
+    .slider_event .slick-dots {
+        left: 50%;
+        transform: translate(-50%);
+        bottom: -45px;
+        align-items: end;
+    }
+
+    .slider_event {
+        padding: 20px 0 0;
+    }
+
+    .slider_event .slick-list {
+        margin: 0px -20px;
+    }
+
+    .slider_event .slick-slide {
+        margin: 0 15px;
+    }
+
+    .latest_all .lat_con {
+        width: 85%;
+    }
+
+    .latest_slider .slick-list {
+        padding-bottom: 39px;
+    }
+
+    .fol_con figure {
+        height: 384px;
+    }
+
+    .footer_right {
+        padding: 20px 0 0;
+    }
+
+    .footer_left ul,
+    .address {
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .footer_right ul {
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .copyWirite {
+        padding: 20px 0 0;
+    }
+
+    footer {
+        padding: 0px 0 15px;
+    }
+
+
+
+
+    header.is-sticky {
+        padding: 0;
+    }
+
+    header.is-sticky .logo img {
+        width: 150px;
+    }
+
+    .form_sec form input {
+        padding: 5px 20px;
+    }
+
+    .toggle_btn {
+        gap: 5px;
+    }
+
+    .toggle_btn.active span:last-child {
+        transform: translateY(-7px);
+        rotate: -45deg;
+    }
+
+    .toggle_btn.active span:first-child {
+        transform: translateY(5px);
+        rotate: 46deg;
+    }
+
+    .side_menu_item.slide_show {
+        width: 50%;
+    }
+
+    .side_menu_item ul li a {
+        font-size: 18px;
+    }
+
+    /* .sameBanner figure {
+        height: 300px;
+    } */
+
+    .sameHeading {
+        min-height: 175px;
+        padding: 25px 25px 0;
+    }
+
+    .overAll {
+        height: 40px;
+    }
+
+    .admission {
+        margin-top: -130px;
+    }
+
+    .eligibility .heading {
+        padding: 50px 50px 110px;
+    }
+
+    .eli_box_t {
+        padding: 0 50px;
+        margin-top: -73px;
+    }
+
+    .eli_box_t .eli_box {
+        min-height: 174px;
+        padding: 10px;
+    }
+
+    .eli_box_t .eli_box h5 {
+        font-size: 16px;
+    }
+
+    .steps {
+        flex-wrap: wrap;
+    }
+
+    .steps .step h5 {
+        font-size: 18px;
+    }
+
+    .steps .step h4 {
+        font-size: 22px;
+    }
+
+    .step_con figure {
+        width: 100%;
+    }
+
+    .step_con figure img {
+        width: 100%;
+    }
+
+    .step_con {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+    }
+
+    h4 {
+        font-size: 14px;
+    }
+
+    /* .in_text figure img {
+        width: 55px;
+    } */
+
+    .in_text figure {
+        min-height: 102px;
+    }
+
+    .in_text h4 small {
+        font-size: 10px;
+    }
+
+    .st_conAll .stCon:nth-child(4) {
+        padding: 30px 0px 0px 30px;
+    }
+
+    .st_conAll .stCon:nth-child(3) {
+        padding: 30px 30px 0px 0px;
+    }
+
+    .st_conAll .stCon:nth-child(2) {
+        padding: 0px 0px 30px 30px;
+    }
+
+    .st_conAll .stCon:first-child {
+        padding: 0px 30px 30px 0px;
+    }
+
+    .career figure figcaption {
+        bottom: 10px;
+    }
+
+    .career a {
+        font-size: 20px;
+        padding: 10px 70px;
+    }
+
+    .evolution .heading {
+        padding-right: 0;
+    }
+
+    .dedicated .heading h2 {
+        padding-bottom: 25px;
+    }
+
+    .dedicated .heading p {
+        padding-bottom: 13px;
+    }
+
+    .vision .heading {
+        padding: 35px;
+    }
+
+    .vision .row:last-child .col-lg-5,
+    .vision .row:last-child .col-lg-7 {
+        width: 100%;
+    }
+
+    .acade_box {
+        padding: 10px 20px;
+        height: 110px;
+    }
+
+    .acade_box h3 {
+        font-size: 20px;
+    }
+
+    .acade_box figure img {
+        width: 60px;
+    }
+
+    .distCon h6 {
+        font-size: 12px;
+        left: 10px;
+        bottom: 10px;
+    }
+
+    .phi_all .phi_box h3 {
+        font-size: 22px;
+    }
+
+    .philo .para br {
+        display: none;
+    }
+
+    .philo .para {
+        padding: 40px 0;
+    }
+
+    .philo ul li {
+        font-size: 14px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2),
+    .philo .phi_ul ul:last-child li:nth-child(2) {
+        padding-left: 69px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2)::before,
+    .philo .phi_ul ul:last-child li:nth-child(2)::before {
+        left: 58px;
+    }
+
+    .philo ul li::before {
+        width: 6px;
+        height: 6px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child,
+    .philo .phi_ul ul:last-child li:last-child {
+        padding-left: 138px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child::before,
+    .philo .phi_ul ul:last-child li:last-child::before {
+        left: 127px;
+    }
+
+    .apart_tab .tab-content {
+        width: 50%;
+        padding-left: 20px;
+    }
+
+    .apart_tab .nav-pills .nav-link {
+        font-size: 14px;
+    }
+
+    .aTabItem ul li {
+        font-size: 17px;
+    }
+
+    .aTabItem ul li::before {
+        top: 11px;
+        width: 6px;
+        height: 6px;
+    }
+
+    .corporation .col-lg-4 .heading {
+        padding: 0 0 30px;
+    }
+
+    .registered .regi_con .regi_left {
+        padding-right: 40px;
+    }
+
+    .registered .regi_con .regi_right {
+        padding-left: 40px;
+    }
+
+    .registered .regi_con {
+        padding: 30px 30px;
+    }
+
+    .registered .regi_con .regi_left h6,
+    .registered .regi_con .regi_left a {
+        font-size: 16px;
+    }
+
+    .registered .regi_con .regi_right .heading ul li {
+        font-size: 14px;
+    }
+
+    .registered .regi_con {
+        padding: 23px 23px;
+    }
+
+    .note .col-lg-4 {
+        padding-bottom: 30px;
+    }
+
+    .note .col-lg-4,
+    .note .col-lg-8 {
+        width: 100%;
+    }
+
+    .note .col-lg-4 .heading ul li {
+        font-size: 15px;
+    }
+
+    .note .col-lg-4 .heading {
+        padding: 0;
+    }
+
+    .univerAddress .col-lg-8 ul {
+        padding-left: 0px;
+        padding-top: 20px;
+    }
+
+    .univerAddress h2 br {
+        display: none;
+    }
+
+    .worldClass {
+        padding: 20px;
+        min-height: 310px;
+    }
+
+    .campusSlider {
+        padding: 0 20px;
+        margin-top: -70px;
+    }
+
+    .campusSlider .slick-dots,
+    .librarySlider .slick-dots,
+    .sEventSlider .slick-dots {
+        right: 20px;
+    }
+
+    .sportsFlex .sportCon h6 {
+        font-size: 12px;
+    }
+
+    .sportsFlex .sportCon figure,
+    .sportsFlex .sportCon:last-child figure {
+        height: calc(410px - 160px);
+    }
+
+    .sportsFlex .sportCon h6,
+    .sportsFlex .sportCon:last-child h6 {
+        height: 160px;
+    }
+
+    .sportsFlex .sportCon:nth-child(2) figure {
+        height: 255px;
+    }
+
+    .sportsFlex .sportCon:nth-child(2) h6 {
+        height: calc(410px - 255px);
+    }
+
+    .sportsFlex .sportCon:nth-child(3) figure:first-child {
+        height: 215px;
+    }
+
+    .sportsFlex .sportCon:nth-child(3) figure:last-child {
+        height: calc(410px - 215px);
+    }
+
+    .library .col-lg-6:last-child {
+        padding-left: 30px;
+    }
+
+    .socialEvent .heading p br {
+        display: none;
+    }
+
+    .sEventTab .nav {
+        flex-wrap: nowrap;
+        overflow: scroll;
+    }
+
+    .sEventTab .nav .nav-link {
+        width: 210px;
+        height: 100%;
+    }
+
+    .videoPart {
+        height: auto;
+    }
+
+    .sameHeading h2 {
+        font-size: 35px;
+    }
+
+    .fMem_slider_con .fmem1 .fmem_con h5,
+    .consti_con h5 {
+        font-size: 16px;
+        padding-bottom: 6px;
+    }
+
+    .fmem1 .fmem_con p,
+    .consti_con p {
+        font-size: 12px;
+    }
+
+    .constituent .row .col-lg-6:last-child .left_consti::after {
+        left: -40px;
+    }
+
+    .left_consti {
+        gap: 35px;
+    }
+
+    .f_member .heading,
+    .constituent .heading,
+    .associate .heading {
+        padding-bottom: 40px;
+    }
+
+
+    .f_member .heading h3,
+    .constituent .heading h3,
+    .associate .heading h3 {
+        font-size: 25px;
+    }
+
+    .left_consti {
+        flex-direction: column;
+    }
+
+    .progTab_text {
+        padding-top: 4px;
+    }
+
+    .progTab_con figure {
+        padding-right: 15px;
+    }
+
+    .progTab_text ul li a {
+        font-size: 14px;
+    }
+
+    .sEventTab.prog_tab .nav {
+        padding: 10px 10px 0;
+    }
+
+    .opportunities .col-lg-8 {
+        padding-left: 13px;
+        padding-top: 20px;
+    }
+
+    .awaitAll .awaiting_con .await_text h4 {
+        font-size: 16px;
+    }
+
+    .awaitAll .awaiting_con figure img {
+        width: 44px;
+    }
+
+    .facultyCon .facultyText h4 {
+        font-size: 20px;
+        padding-bottom: 6px;
+    }
+
+    .facultyCon .facultyText small {
+        font-size: 13px;
+    }
+
+    .facultyCon figure i {
+        font-size: 27px;
+    }
+
+    .cor ul li {
+        font-size: 14px;
+    }
+
+    .cor .row {
+        align-items: start !important;
+    }
+
+    .govertext p {
+        font-size: 15px;
+    }
+
+    .gover_con figure img {
+        width: 110px;
+        object-fit: scale-down;
+    }
+
+    .gover_con {
+        padding-bottom: 25px;
+        margin-bottom: 25px;
+    }
+
+    .govertext h2 a {
+        height: 35px;
+        width: 35px;
+    }
+
+    .govertext h2 i {
+        font-size: 24px;
+    }
+
+    .president .heading_c {
+        gap: 30px;
+    }
+
+    .pre_para {
+        padding-left: 30px;
+    }
+
+    .gb .heading .gbBox {
+        width: 62%;
+    }
+
+    .bm .heading .gbBox,
+    .lT .heading .gbBox {
+        width: 50%;
+    }
+
+    .footer_right ul:nth-child(2) li {
+        padding-left: 58px;
+    }
+
+    .footer_right ul:last-child li {
+        padding-left: 78px;
+    }
+
+    .news .row {
+        margin-top: 25px;
+    }
+
+    .newContent {
+        padding: 15px 15px 0px;
+    }
+
+    .newContent h3 {
+        font-size: 16px;
+    }
+
+}
+
+@media(max-width:768px) {
+    .container {
+        max-width: 540px;
+    }
+
+    .side-slide-form-wrap {
+        width: 100% !important;
+    }
+
+    .university .container,
+    header .container {
+        max-width: 580px;
+    }
+
+    figure.cap {
+        left: 15px;
+        top: 50%;
+        transform: translate(0%, -50%);
+        width: 220px;
+    }
+
+    .university .container {
+        padding: 0 13px;
+    }
+
+    .university {
+        margin-top: 0px;
+    }
+
+    .university .heading {
+        gap: 40px;
+    }
+
+    .university .heading h1 {
+        border-bottom: 1px solid #fff;
+        width: 100%;
+        padding-bottom: 40px;
+    }
+
+    .hero_slider .slick-dots {
+        z-index: 0;
+    }
+
+    .right_sus {
+        gap: 15px 20px;
+    }
+
+    .left_sus {
+        padding-right: 0px;
+    }
+
+    .right_sus p {
+        font-size: 13px;
+    }
+
+    .partner .container .col-lg-6 {
+        width: 80%;
+    }
+
+    .indusAll .ImgBox h4 {
+        font-size: 16px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    .campus .heading {
+        padding-bottom: 25px;
+    }
+
+    #item-0 {
+        height: 128px;
+    }
+
+    #item-2 {
+        height: 88px;
+    }
+
+    #item-3 {
+        height: 170px;
+    }
+
+    #item-4 {
+        height: 128px;
+    }
+
+    #item-1,
+    #item-5 {
+        height: 134px;
+    }
+
+    #item-7 {
+        height: 92px;
+    }
+
+    #item-6 {
+        height: 174px;
+    }
+
+    .campus .heading::after {
+        width: 270px;
+    }
+
+    .lat_con h3 {
+        font-size: 25px;
+    }
+
+    .latest_all .lat_con .lat_flex {
+        padding-top: 50px;
+    }
+
+    .event_con h4 {
+        font-size: 25px;
+    }
+
+    .fol_con figure {
+        height: auto;
+    }
+
+    .footer_content h2 {
+        font-size: 24px;
+    }
+
+    .footer_content p {
+        font-size: 20px;
+    }
+
+    .twoBtn a {
+        font-size: 18px;
+    }
+
+
+
+
+    .sameBanner {
+        margin-top: 85px;
+    }
+
+    .sameHeading h2 {
+        font-size: 40px;
+    }
+
+    .sameHeading h5 {
+        font-size: 16px;
+    }
+
+    .overView a,
+    .overView.onlyOne a {
+        font-size: 15px;
+    }
+
+    .eli_box_t {
+        flex-direction: column;
+    }
+
+    .eli_box_t .eli_box {
+        width: 100%;
+        padding: 25px;
+    }
+
+    .steps .step h5 {
+        font-size: 16px;
+    }
+
+    .steps .step h4 {
+        font-size: 20px;
+    }
+
+    .steps .step {
+        height: 235px;
+    }
+
+    .step_con:nth-child(even) figure img {
+        height: 131px;
+    }
+
+    .step_con:nth-child(odd) figure img {
+        height: 147px;
+    }
+
+    .in_text figure::after {
+        left: 50%;
+        width: 50px;
+        transform: translate(-50%, -50%);
+    }
+
+    .in_text figure {
+        justify-content: center;
+    }
+
+    .in_text {
+        width: 50%;
+        text-align: center;
+    }
+
+    .income_con {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 40px 0;
+    }
+
+    .st_conAll .stCon h2 {
+        font-size: 21px;
+        padding-bottom: 15px;
+    }
+
+    .career p {
+        padding: 45px 0;
+    }
+
+    .sameHeading {
+        min-height: 162px;
+    }
+
+    .overView {
+        width: 1076px;
+    }
+
+    .dedicated .heading h2 br {
+        display: none;
+    }
+
+    .evolution .heading {
+        padding-bottom: 20px;
+    }
+
+    .vision .row:first-child .col-lg-5,
+    .vision .row:first-child .col-lg-7 {
+        width: 100%;
+    }
+
+    .vision .row:first-child .col-lg-5 {
+        order: 2;
+    }
+
+    .vision .row:last-child .col-lg-7 {
+        order: 2;
+    }
+
+    .vision .row:last-child .heading ul li {
+        font-size: 14px;
+    }
+
+    .distCon h6 {
+        padding-right: 10px;
+    }
+
+    .distCon h6 br {
+        display: none;
+    }
+
+    .academic .heading h2 br {
+        display: none;
+    }
+
+    .apart_tab .nav-pills .nav-link {
+        padding-right: 20px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child,
+    .philo .phi_ul ul:last-child li:last-child {
+        padding-left: 77px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child::before,
+    .philo .phi_ul ul:last-child li:last-child::before {
+        left: 68px;
+        top: 50%;
+    }
+
+    .philo ul li {
+        font-size: 12px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2),
+    .philo .phi_ul ul:last-child li:nth-child(2) {
+        padding-left: 32px;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2)::before,
+    .philo .phi_ul ul:last-child li:nth-child(2)::before {
+        left: 23px;
+    }
+
+    .philo .phi_ul ul:last-child {
+        padding-top: 10px;
+        margin-top: 10px;
+    }
+
+    .registered .regi_con .regi_left,
+    .registered .regi_con .regi_right {
+        width: 100%;
+        padding: 0;
+        border: none;
+    }
+
+    .registered .regi_con {
+        flex-wrap: wrap;
+    }
+
+    .registered .regi_con .regi_right {
+        padding-top: 30px;
+    }
+
+    .univerAddress .col-lg-8 ul li {
+        font-size: 16px;
+    }
+
+    .faqs_con .accordion-item h6,
+    .faqs_con .accordion-button h5 {
+        font-size: 14px;
+    }
+
+    .accordion-button::after {
+        background-size: 1.2rem;
+    }
+
+    .faqs_con .accordion-item::before {
+        height: 133%;
+    }
+
+    .faqs_con .accordion-button h5 {
+        /* background: red; */
+        padding-right: 50px;
+    }
+
+    .digitalCampus .heading h2 br {
+        display: none;
+    }
+
+    .worldClass {
+        flex-direction: column;
+        gap: 15px;
+        min-height: 330px;
+    }
+
+    .sportsFlex .sportCon {
+        width: 32%;
+    }
+
+    .sportsFlex {
+        flex-wrap: wrap;
+    }
+
+    .sportsFlex .sportCon {
+        width: 30.7%;
+        height: auto;
+    }
+
+    .library ul {
+        margin-top: 20px;
+    }
+
+    .library .heading {
+        padding-top: 60px;
+    }
+
+    .campusVideo .videoText h4 {
+        font-size: 25px;
+    }
+
+    .campusVideo .videoText button {
+        width: 60px;
+        height: 60px;
+    }
+
+    .campusVideo .videoText button i {
+        font-size: 26px;
+    }
+
+    .consti_con h5,
+    .consti_con p {
+        text-align: center;
+    }
+
+    .constituent .row .col-lg-6:last-child .left_consti::after {
+        left: -19px;
+    }
+
+    .left_consti figure {
+        width: 56%;
+        height: 85px;
+    }
+
+    .sameHeading h2 {
+        font-size: 25px;
+    }
+
+    .sEventTab.prog_tab .nav .nav-link {
+        font-size: 20px;
+    }
+
+    .programmes .heading {
+        padding-bottom: 25px;
+    }
+
+    .sEventTab .nav .nav-link::after {
+        height: 6px;
+    }
+
+    .progTab_con {
+        flex-direction: column;
+    }
+
+    .progTab_con figure,
+    .progTab_text {
+        padding-right: 0;
+        width: 100%;
+    }
+
+    .progTab_text ul li a {
+        font-size: 16px;
+    }
+
+    .faculty .heading a {
+        font-size: 16px;
+        padding: 7px 12px;
+    }
+
+    .faculty .heading {
+        padding-bottom: 30px;
+    }
+
+    .faculty .row .col-md-6:last-child {
+        padding-top: 30px;
+    }
+
+    .opportunities .heading {
+        padding: 20px;
+    }
+
+    .cor figure {
+        padding-bottom: 20px;
+    }
+
+    .cor ul {
+        padding-left: 20px;
+    }
+
+    .gover_con figure img {
+        width: 75px;
+    }
+
+    .govertext p {
+        font-size: 13px;
+        padding-top: 12px;
+    }
+
+    .govertext h2 {
+        font-size: 20px;
+    }
+
+    .govertext h2 i {
+        font-size: 15px;
+    }
+
+
+    .govertext h2 a {
+        height: 25px;
+        width: 25px;
+    }
+
+    .overAll {
+        height: 57px;
+    }
+
+    .gb .heading .gbBox {
+        width: 53%;
+    }
+
+    .bm .heading .gbBox,
+    .lT .heading .gbBox {
+        width: 39%;
+    }
+
+    .gb .heading,
+    .bm .heading,
+    .lT .heading {
+        padding-bottom: 35px;
+    }
+
+    .footer_right ul:nth-child(2) li {
+        padding-left: 33px;
+    }
+
+    .footer_right ul:last-child li {
+        padding-left: 18px;
+    }
+
+    .footer_right ul:nth-child(2) li {
+        padding-left: 20px;
+    }
+
+    .newContent {
+        padding: 0;
+    }
+
+    .newContent h3 {
+        font-size: 13px;
+    }
+
+    .newContent .bt_con small,
+    .newContent .bt_con a.read {
+        font-size: 12px;
+    }
+
+    .slider_event .slick-dots {
+        position: unset;
+        transform: unset;
+        justify-content: center;
+        margin-top: 18px;
+    }
+}
+
+@media(max-width:576px) {
+    section.hero {
+        height: calc(380px - 85px);
+    }
+
+    .form_sec {
+        display: none;
+    }
+
+    .side_menu_item.slide_show .form_sec.mobile {
+        opacity: 1;
+        margin-top: 30px;
+    }
+
+    .form_sec.mobile {
+        display: block;
+        opacity: 0;
+        margin-top: 30px;
+        padding: 0 28px;
+    }
+
+    .menu_w_ser.fixedSide {
+        top: 11px;
+    }
+
+    .side_menu_item.slide_show {
+        width: 100%;
+    }
+
+    .toggle_btn {
+        width: 100%;
+    }
+
+    .container,
+    .university .container,
+    header .container {
+        max-width: 100%;
+    }
+
+    .hero_slider .slick-dots {
+        bottom: 0;
+    }
+
+    .hero_slider .slick-dots li button {
+        width: 10px;
+        height: 10px;
+    }
+
+    .hero_slider .slick-slide .item figure img {
+        object-position: 95%;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    h1 span {
+        font-size: 30px;
+    }
+
+    .university .heading h2 {
+        font-size: 22px;
+    }
+
+    section {
+        padding: 40px 0;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .right_sus p {
+        width: 45%;
+    }
+
+    .flagship .heading a {
+        font-size: 15px;
+    }
+
+    .flagA {
+        display: block;
+        margin-top: 13px;
+    }
+
+    .dollar {
+        /* flex-wrap: wrap; */
+        gap: 25px 30px;
+    }
+
+    .dollar .dol_con h3 {
+        font-size: 50px;
+
+    }
+
+    .partner {
+        background-attachment: unset;
+    }
+
+    .dollar .dol_con h6 {
+        font-size: 10px;
+    }
+
+    .bo_h3 h3 {
+        /* padding-top: 20px; */
+        font-size: 15px;
+    }
+
+    .flagship .heading {
+        padding-bottom: 0;
+    }
+
+    section.flagship .row {
+        gap: 15px;
+    }
+
+    .workforce .heading h2 br {
+        display: none;
+    }
+
+    .dollar .dol_con h5 {
+        font-size: 16px;
+        padding: 5px 0 10px;
+        font-size: 15px;
+    }
+
+    .workforce figure img {
+        max-width: 100%;
+    }
+
+    .partner .container .col-lg-6 {
+        width: 100%;
+    }
+
+    .partner .heading_first {
+        padding: 13px;
+    }
+
+    .toggle_btn.active span:last-child {
+        transform: translateY(-6px);
+        rotate: 310deg;
+    }
+
+    .toggle_btn.active span:first-child {
+        transform: translateY(6px);
+        rotate: 46deg;
+    }
+
+    .partner h2 {
+        font-size: 23px;
+    }
+
+    .box_par {
+        padding: 13px;
+    }
+
+    .parA a {
+        font-size: 16px;
+    }
+
+    .parA a span img {
+        width: 10px;
+    }
+
+    .angry-grid {
+        gap: 5px;
+    }
+
+    #item-0,
+    #item-1,
+    #item-2,
+    #item-3,
+    #item-4,
+    #item-5,
+    #item-6,
+    #item-7 {
+        height: auto;
+    }
+
+    .lat_con h3 {
+        font-size: 17px;
+    }
+
+    .latest_all .lat_con .lat_flex {
+        padding-top: 17px;
+    }
+
+    .latest_slider .slick-dots {
+        top: unset;
+        bottom: 0;
+    }
+
+    .event_con h4 {
+        font-size: 18px;
+    }
+
+    .follow .heading h2 {
+        word-wrap: break-word;
+    }
+
+    .corporation .heading h6,
+    .corporation .heading .ad_con a {
+        font-size: 15px;
+    }
+
+    .Co_form {
+        padding: 12px;
+    }
+
+    .Co_form input,
+    .Co_form textarea {
+        font-size: 14px;
+    }
+
+    .registered .regi_con .regi_right ul {
+        padding-left: 20px;
+    }
+
+    .registered .regi_con .regi_left h6,
+    .registered .regi_con .regi_left a {
+        font-size: 15px;
+    }
+
+    .registered .regi_con .regi_left .heading .regi_link a:first-child {
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin: 15px 0;
+    }
+
+    .registered .regi_con .regi_left .heading h2 {
+        padding-bottom: 20px;
+    }
+
+    .map figure iframe {
+        height: 400px;
+    }
+
+    .event_con h4 {
+        font-size: 16px;
+    }
+
+    .event_con {
+        padding-bottom: 15px;
+        margin-bottom: 10px;
+    }
+
+    .lat_con h3 {
+        font-size: 16px;
+    }
+
+    .footer_content {
+        padding: 20px;
+        width: 95%;
+    }
+
+    .footer_content h2 {
+        font-size: 22px;
+    }
+
+    .twoBtn {
+        gap: 10px;
+        flex-direction: column;
+    }
+
+    .footer_content p {
+        font-size: 18px;
+        text-align: center;
+    }
+
+
+    .form_sec form input {
+        border: none;
+    }
+
+    .form_sec a {
+        padding: 5px 20px;
+    }
+
+    footer ul li {
+        font-size: 11px;
+    }
+
+    footer p,
+    footer .link_a a {
+        font-size: 10px;
+    }
+
+    .footer_right {
+        gap: 5px;
+        flex-wrap: wrap;
+    }
+
+    .footer_right ul {
+        width: 49%;
+    }
+
+    .footer_right ul li a {
+        font-size: 11px;
+    }
+
+    .footer_right ul li {
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+    }
+
+
+    .social_link .soI i {
+        width: 30px;
+        height: 30px;
+        font-size: 13px;
+    }
+
+    .step_con figure {
+        display: none;
+    }
+
+    .flag_con::after {
+        display: none;
+    }
+
+    .step_con {
+        width: 100%;
+        padding: 7px 0;
+    }
+
+
+
+    .eli_box_t {
+        padding: 0 10px;
+    }
+
+    .eli_box_t .eli_box h5 {
+        font-size: 15px;
+    }
+
+    .steps .step h5 br {
+        display: none;
+    }
+
+    .steps .step {
+        height: 190px;
+    }
+
+    .apply .heading {
+        padding-bottom: 25px;
+    }
+
+    .steps {
+        padding-bottom: 40px;
+    }
+
+    .apply hr {
+        margin: 25px 0;
+    }
+
+    .income_con {
+        padding-top: 40px;
+    }
+
+    .st_conAll .stCon {
+        width: 100%;
+    }
+
+    .st_conAll .stCon:first-child {
+        padding: 0px 0px 15px 0px;
+        border-right: 0;
+    }
+
+    .st_conAll .stCon:nth-child(2) {
+        padding: 15px 0px 10px 0px;
+    }
+
+    .st_conAll .stCon:nth-child(3) {
+        padding: 15px 0px 15px 0px;
+        border-right: 0;
+    }
+
+    .st_conAll .stCon:nth-child(4) {
+        padding: 15px 0px 0px 0px;
+    }
+
+    .career figure figcaption {
+        bottom: 0px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .career a {
+        font-size: 16px;
+        padding: 10px 25px;
+    }
+
+    .admission {
+        margin-top: -114px;
+    }
+
+    .process .heading h2 {
+        padding-bottom: 15px;
+    }
+
+    .dedicated .heading h2 {
+        padding-bottom: 20px;
+    }
+
+    .vision .heading {
+        padding: 20px;
+    }
+
+    .acade_box h3 {
+        font-size: 18px;
+    }
+
+    .academic .row {
+        gap: 10px 0;
+    }
+
+    .acade_box {
+        height: 95px;
+    }
+
+    .philosophy {
+        padding: 20px;
+    }
+
+    .phi_all .phi_box {
+        width: 100%;
+    }
+
+    .phi_all {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .philo figure {
+        height: 300px;
+    }
+
+    .philo figure img {
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .philo {
+        margin-top: -104px;
+    }
+
+    .academic .heading {
+        padding-bottom: 33px;
+    }
+
+    .academic .heading h2 {
+        padding-bottom: 15px;
+    }
+
+    .philo ul li {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2),
+    .philo .phi_ul ul:last-child li:nth-child(2) {
+        padding-left: 0;
+    }
+
+    .philo .phi_ul ul:first-child li:nth-child(2)::before,
+    .philo .phi_ul ul:last-child li:nth-child(2)::before {
+        left: -13px;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child,
+    .philo .phi_ul ul:last-child li:last-child {
+        padding-left: 0;
+    }
+
+    .philo .phi_ul ul:first-child li:last-child::before,
+    .philo .phi_ul ul:last-child li:last-child::before {
+        left: -13px;
+    }
+
+    .philo .phi_ul ul {
+        flex-direction: column;
+    }
+
+    .apart_tab>div {
+        flex-direction: column;
+    }
+
+    .apart_tab .nav {
+        width: 100%;
+    }
+
+    .apart_tab .tab-content {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .aTabItem ul {
+        padding-left: 17px;
+
+    }
+
+    .aTabItem ul li {
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+
+    .dist_grid .distAll {
+        width: 100%;
+    }
+
+    .item4,
+    .item1,
+    .item2,
+    .item3,
+    .item5,
+    .item6,
+    .item7,
+    .item8 {
+        height: auto;
+    }
+
+    .dist_grid .distAll {
+        height: auto;
+    }
+
+    .distCon h6 {
+        font-size: 16px;
+    }
+
+    .Co_form .heading {
+        padding-bottom: 20px;
+    }
+
+    .univerAddress .col-lg-8 ul li {
+        font-size: 14px;
+    }
+
+    .Co_form .heading a {
+        font-size: 14px;
+    }
+
+    section.faqs {
+        padding: 40px 0px 40px 27px;
+    }
+
+    .faqs_con .accordion-item h6,
+    .faqs_con .accordion-button h5 {
+        font-size: 12px;
+
+    }
+
+    .faqs_con .accordion-button h5 {
+        padding-right: 16px;
+    }
+
+    .faqs_con .accordion-body {
+        padding: 10px 10px 0;
+    }
+
+    .faqs_con .accordion-button {
+        padding: 10px;
+    }
+
+    .faqs_con .accordion-item {
+        margin-bottom: 10px;
+    }
+
+    .faqs_con .accordion-item::before {
+        height: 108%;
+    }
+
+    .accordion-button::after {
+        background-size: 0.9rem;
+    }
+
+    .sameHeading h2 {
+        font-size: 24px;
+    }
+
+    .sameHeading h2 br {
+        display: none;
+    }
+
+    .overView {
+        width: 830px;
+    }
+
+    .worldClass {
+        min-height: 430px;
+    }
+
+    .sports .heading p br {
+        display: none;
+    }
+
+    .sportsFlex .sportCon {
+        width: 46.7%;
+    }
+
+    .sportsFlex .sportCon h6 {
+        padding: 10px;
+    }
+
+    .campusVideo .videoText h4 {
+        font-size: 14px;
+    }
+
+    .foundation .heading {
+        gap: 22px;
+        align-items: start;
+        padding-bottom: 25px;
+        flex-direction: column;
+    }
+
+    .foundation .heading figure {
+        text-align: center;
+        width: 140px;
+    }
+
+    .foundation .heading figure img {
+        max-width: 100%;
+    }
+
+    .foundP p {
+        padding-bottom: 15px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    .foundation {
+        padding-bottom: 20px;
+    }
+
+    .fmem1 .fmem_con p {
+        height: 80px;
+    }
+
+    .fMem_slider_con {
+        gap: 25px;
+    }
+
+    .left_consti figure {
+        width: 82%;
+        height: 75px;
+    }
+
+    .aMem_slider .fmem1 .fmem_con p {
+        height: 60px;
+    }
+
+    .constituent .row .col-lg-6:last-child .left_consti::after {
+        left: -13px;
+    }
+
+    .faculty .heading a {
+        font-size: 13px;
+        padding: 5px 10px;
+    }
+
+    .awaitAll .awaiting_con figure img {
+        width: 46px;
+    }
+
+    .gra_box {
+        padding: 20px;
+    }
+
+    .gover_con {
+        flex-direction: column;
+        align-items: start;
+        gap: 20px;
+    }
+
+    .govertext {
+        width: 100%;
+    }
+
+    .govertext h2 {
+        padding-right: 20px;
+    }
+
+    .president .heading_c {
+        gap: 10px;
+        flex-direction: column;
+    }
+
+    .pre_para {
+        padding-left: 0;
+        padding-top: 15px;
+    }
+
+    .president .row .col-lg-12:last-child {
+        width: 100%;
+    }
+
+    .president .heading_c figure,
+    .pre_con {
+        width: 100%;
+    }
+
+    .gb .heading .gbBox {
+        width: 34%;
+    }
+
+    .bm .heading .gbBox,
+    .lT .heading .gbBox {
+        width: 15%;
+    }
+
+    .overView li.menu-item a {
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+
+    .sameHeading {
+        padding: 20px 20px 0;
+    }
+
+    .footer_right ul:nth-child(2) li,
+    .footer_right ul:last-child li {
+        padding-left: 0;
+    }
+
+    .footer_left {
+        padding-right: 0;
+    }
+
+    .footer_right ul li {
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+
+    }
+
+    .newContent {
+        padding-top: 15px;
+    }
+
+    .newContent h3 {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+}
